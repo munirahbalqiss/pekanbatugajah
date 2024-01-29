@@ -144,7 +144,7 @@ nav img {
     justify-content: center;
 }
 
-.slideshow-container {
+.video-container {
     display: flex;
     /* Adjust the height as needed */
     height: 315px; /* You can adjust the height based on your videos */
